@@ -125,5 +125,14 @@ The HRMS Leave Management System is designed to streamline leave management for 
 - A joy to use for both employees and managers!
 
 ---
+## 👨‍👩‍👧‍👦 Hackathon Team Members
+**Team Lead**
+- Bharath kumar
+**Team Members**
+- Sai Krishna
+- Bharath Raj 
+- Manoj
+- Murali
+
 
 **Experience the future of leave management—fast, beautiful, and effortless!**
